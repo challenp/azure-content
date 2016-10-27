@@ -25,6 +25,7 @@ Below are some considerations when using Azure Marketplace for Government:
 
 - Only Bring Your Own License (BYOL) images are available. You cannot access any images that require purchase transaction through Azure Marketplace
 - Only a subset of images is currently available as compared to the public marketplace. You can find the list of available images [here](../azure-government-image-gallery.md) 
+- You may need to first enable Marketplace purchases for your Enterprise Enrollment. Any Enterprise Admin can do that from the Manage tab of the [Enterprise Portal](http://ea.azure.com).
 
 >[AZURE.NOTE] If you are interested in making your images available in Azure Government please refer to [partner onboarding guidelines](documentation-government-manage-marketplace-partners.md) for more information.
 
